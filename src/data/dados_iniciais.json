@@ -1,132 +1,52 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Comidas Brasileiras",
+      "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Pratos típicos de varias regiões"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O Prato Típico de Cada Estado Brasileiro",
+          "url": "https://www.youtube.com/watch?v=mz1sEhTX2SE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Como fazer Arroz Maria Isabel - Comida Nordestina (Piauí)",
+          "url": "https://www.youtube.com/watch?v=u2HC-Awz5qM"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "48 HORAS DE COMILANÇA FEROZ EM CURITIBA",
+          "url": "https://www.youtube.com/watch?v=CTa6a0wearU"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "CARIBÉU À MODA DO CHEF - Sabores do Mato Grosso do Sul",
+          "url": "https://www.youtube.com/watch?v=eBTlTGKayzw"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "12 HORAS DE COMILANÇA FEROZ EM BELÉM | MERCADO VER-O-PESO E COMIDA DE RUA - feat MARK WIENS",
+          "url": "https://www.youtube.com/watch?v=-tkjT2VmYiw"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "MELHOR COMIDA MINEIRA DE BH?",
+          "url": "https://www.youtube.com/watch?v=zRdOc6aKbEQ"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "AS COMIDAS TÍPICAS DO RIO DE JANEIRO",
+          "url": "https://www.youtube.com/watch?v=Ppr2VJ50r04"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Acre| Do Seringal à Capital, descobrindo os SABORES do Acre",
+          "url": "https://www.youtube.com/watch?v=yRWHRzK7BMQ"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
+      "titulo": "Saladas",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": ""
       },
       "videos": [
         {
@@ -134,52 +54,116 @@
           "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "SALADA TROPICAL SUPER DIFERENTE - PRÁTICA E RÁPIDA",
+          "url": "https://www.youtube.com/watch?v=jwC9gOHRm88"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "SALADA DE PEPINO DA MADAME JACQUIN | ERICK JACQUIN",
+          "url": "https://www.youtube.com/watch?v=JWYwLxiJocQ"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Salada Carolina | Na Cozinha com Carolina",
+          "url": "https://www.youtube.com/watch?v=SXcnzlgRKbw"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Salada grega | Rita Lobo | Cozinha Prática",
+          "url": "https://www.youtube.com/watch?v=3wJH3dYE8Ng"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Sobremesas",
+      "cor": "#00C86F",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Geladas",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "MOUSSE DE CHOCOLATE FIT COM APENAS 2 INGREDIENTES",
+          "url": "https://www.youtube.com/watch?v=wqVhQtU2w6U"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "CHURROS no COPO - ótimo para DELIVERY! | Tábata Romero",
+          "url": "https://www.youtube.com/watch?v=owa35rj6aOw"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "A SOBREMESA DE ABACAXI MAIS FÁCIL QUE JÁ FIZ | SOBREMESA GELADA",
+          "url": "https://www.youtube.com/watch?v=6YD3bdKvvgA"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "CHICO BALANCEADO I Sobremesa DE BANANA",
+          "url": "https://www.youtube.com/watch?v=7tjFkEa-GV4"
+        }, 
+        {
+          "titulo": "O Verdadeiro Tiramisù Italiano | Receita Sandra Dias",
+          "url": "https://www.youtube.com/watch?v=gZfLLLb4K5c"
+        }, 
+        {
+          "titulo": "BROWNIE FIT SEM AÇÚCAR COM 4 INGREDIENTES - RECEITA FIT FÁCIL / SOBREMESA INCRÍVEL",
+          "url": "https://www.youtube.com/watch?v=2mZPgp1VHNM"
         }
       ]
-    }
+    },
+    {
+      "titulo": "Tortas e Bolos",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Como Fazer Torta Quatro Leites com Morango | Kitutes da Rode",
+          "url": "https://www.youtube.com/watch?v=tDqxmgg0iTE"
+        },
+        {
+          "titulo": "Como fazer Torta de morango (Maravilhosa!) - Segredinhos",
+          "url": "https://www.youtube.com/watch?v=1GDU0ZqTHm4"
+        },
+        {
+          "titulo": "Bolo Xadrez Redondo - Chef Silvia Nicolau",
+          "url": "https://www.youtube.com/watch?v=1VLDz_3jn3U"
+        },
+        {
+          "titulo": "5 RECEITAS DE BOLOS NO POTE | FAÇA E VENDA | Gabriel Freitas |",
+          "url": "https://www.youtube.com/watch?v=tWohYiEro7g"
+        }
+      ]
+    },
+    {
+      "titulo": "Salgados",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Receitas e muito mais",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "COXINHA DE BATATA - MASSA DE ALTO RENDIMENTO",
+          "url": "hhttps://www.youtube.com/watch?v=ZiI1HK6zOkk"
+        },
+        {
+          "titulo": "#canudinhodefrango RECEITA CANUDINHO DE FRANGO",
+          "url": "https://www.youtube.com/watch?v=Phy-Epuf1d4"
+        },
+        {
+          "titulo": "MASSA DE PASTEL CASEIRO- FÁCIL E RÁPIDO",
+          "url": "https://www.youtube.com/watch?v=-l0Bcm_9T74"
+        },
+        {
+          "titulo": "A FAMOSA CEBOLA DO OUTBACK + MOLHO",
+          "url": "https://www.youtube.com/watch?v=GL8gXQDy0V0"
+        }
+      ]
+    }  
   ]
 }
