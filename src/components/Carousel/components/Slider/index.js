@@ -42,7 +42,7 @@ const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
       dots: false,
-      infinite: <i class="fas fa-truck-container    "></i>,
+      infinite: true,
       speed: 300,
       centerMode: false,
       variableWidth: true,
